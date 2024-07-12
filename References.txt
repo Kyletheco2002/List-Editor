@@ -1,0 +1,72 @@
+References
+
+JavaScript Usage Examples - https://www.w3schools.com/js/js_examples.asp
+
+ArrayList in JavaScript - https://treehozz.com/what-is-arraylist-in-javascript
+
+ArrayList in JavaScript 2 is from Stack Overflow website
+Link: https://stackoverflow.com/questions/1748794/is-there-an-arraylist-in-javascript
+Author: kemiller2002
+Author's Profile Link:
+https://stackoverflow.com/users/1942/kemiller2002
+License: https://creativecommons.org/licenses/by-sa/3.0/
+[No changes were made]
+
+List Fact is from Stack Overflow website
+Link: https://stackoverflow.com/questions/45676726/how-do-i-make-a-javascript-created-list-item-clickable
+Author: kinggs
+Author's Profile Link:
+https://stackoverflow.com/users/5930703/kinggs
+License: https://creativecommons.org/licenses/by-sa/3.0/
+[No changes were made]
+
+Arrays in JavaScript - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array
+License: Array by MDN contributors (https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/contributors.txt) is licensed under CC-BY-SA 2.5 (https://creativecommons.org/licenses/by-sa/2.5/). 
+[No changes were made]
+
+Arrays in JavaScript 2 - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/push
+License: Array.prototype.push() by  MDN contributors (https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/push/contributors.txt) is licensed under CC-BY-SA 2.5 (https://creativecommons.org/licenses/by-sa/2.5/). 
+[No changes were made]
+
+Arrays in JavaScript 3 - https://www.geeksforgeeks.org/arrays-in-javascript/
+
+JavaScript var - https://www.w3schools.com/jsref/jsref_var.asp
+
+JavaScript let - https://www.w3schools.com/jsref/jsref_let.asp
+
+JavaScript var vs let - https://www.tutorialspoint.com/difference-between-var-and-let-in-javascript
+
+Checkboxes Guide 1 - https://smallbusiness.chron.com/make-checklist-html-52360.html
+
+Checkbox in HTML - https://blog.hubspot.com/website/html-checkbox
+
+Handling Checkbox Data in HTML - https://html.com/input-type-checkbox/
+
+Checkbox Data Handling using JavaScrpt - https://www.javatpoint.com/how-to-get-all-checked-checkbox-value-in-javascript
+
+Array Element Deletion - https://www.studytonight.com/javascript-howtos/how-to-remove-a-specific-item-from-an-array-in-javascript#:~:text=1%20Answer%3A%20Using%20splice%20%28%29%20function.%20The%20splice,specific%20item%20from%20an%20array%20in%20JavaScript.%20
+
+Array Element Deletion 2 - https://www.w3docs.com/snippets/javascript/how-to-remove-an-element-from-an-array-in-javascript.html#:~:text=JavaScript%20suggests%20several%20methods%20to%20remove%20elements%20from,or%20from%20the%20middle%20using%20splice%20%28%29%20functions.
+
+Input Field - https://www.w3schools.com/tags/tag_input.asp
+
+CSS Buttons - https://www.w3schools.com/csS/css3_buttons.asp
+
+CSS Background Image - https://www.w3schools.com/css/css_background_image.asp
+
+Full Background - https://www.w3schools.com/howto/howto_css_full_page.asp
+
+Bootstrap - https://getbootstrap.com/docs/5.3/getting-started/introduction/
+License: https://github.com/twbs/bootstrap/blob/v5.3.3/LICENSE
+
+Bootstrap Cards - https://getbootstrap.com/docs/5.3/components/card/
+License: https://github.com/twbs/bootstrap/blob/v5.3.3/LICENSE
+
+Bootstrap Buttons - https://getbootstrap.com/docs/5.3/components/buttons/
+License: https://github.com/twbs/bootstrap/blob/v5.3.3/LICENSE
+
+Bootstrap Input Group - https://getbootstrap.com/docs/5.3/forms/input-group/
+License: https://github.com/twbs/bootstrap/blob/v5.3.3/LICENSE
+
+Background Photo - https://unsplash.com/photos/foggy-mountain-summit-1Z2niiBPg5A
+(Photo by v2osk on Unsplash)
